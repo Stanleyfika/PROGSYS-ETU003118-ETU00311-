@@ -1,0 +1,9 @@
+# Configuration du client
+
+
+dossierDestination = ./client-files
+
+# Les lignes de configuration suivantes sont commentées et ne seront pas lues
+# serveurAdresse = 127.0.0.1
+# port = 9090
+

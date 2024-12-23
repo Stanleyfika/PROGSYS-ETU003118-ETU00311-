@@ -1,0 +1,19 @@
+# Configuration du serveur principal
+ipServeur=192.168.0.51
+portServeur=5000
+dossierDestination=./server_files
+
+# Sous-serveur 1
+sousServeur1_ip=192.168.0.51
+sousServeur1_port=5001
+dossierDestination1=./server_files/s1
+
+# Sous-serveur 2
+sousServeur2_ip=192.168.0.51
+sousServeur2_port=5002
+dossierDestination2=./server_files/s2
+
+# Sous-serveur 3
+sousServeur3_ip=192.168.0.51
+sousServeur3_port=5003
+dossierDestination3=./server_files/s3
